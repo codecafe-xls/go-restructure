@@ -1,4 +1,4 @@
-module github.com/alexflint/go-restruture
+module github.com/alexflint/go-restructure
 
 go 1.15
 
