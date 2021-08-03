@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/alexflint/go-restructure"
+	"github.com/codecafe-xls/go-restructure"
 )
 
 var importRegexp = restructure.MustCompile(Import{}, restructure.Options{})

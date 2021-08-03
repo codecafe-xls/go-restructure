@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/alexflint/go-restructure"
+	"github.com/codecafe-xls/go-restructure"
 )
 
 var quaternionRegexp = restructure.MustCompile(QuotedQuaternion{}, restructure.Options{})

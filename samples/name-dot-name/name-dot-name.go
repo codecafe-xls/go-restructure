@@ -6,7 +6,7 @@ import (
 	"log"
 
 	"github.com/alexflint/go-arg"
-	"github.com/alexflint/go-restructure"
+	"github.com/codecafe-xls/go-restructure"
 )
 
 type DotName struct {

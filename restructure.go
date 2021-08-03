@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"regexp/syntax"
 
-	"github.com/alexflint/go-restructure/regex"
+	"github.com/codecafe-xls/go-restructure/regex"
 )
 
 // Style determines whether we are in Perl or POSIX or custom mode
